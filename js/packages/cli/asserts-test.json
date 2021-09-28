@@ -1,0 +1,30 @@
+{
+    "program": {
+        "uuid": "HnnULX",
+        "config": "HnnULXrAMP3sc3SgyrjdiHDCEoQjZU8ArzukrTfRT9Ba",
+        "create_candy_machine":
+        "DrQ3DkqG2JMTrjuCt2N5rUMtAWVbFDtE5r88kKLrSq6U",
+        "updated_candy_machine":
+        "guZiSgmYGfVjKMNuUH44Dz2tdpfYP3zEVHrTCQPKS5SyxDSnmT8PdZwtiN57V8QpoRiuXyjRiP5shbqGbaonXht"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/eZ51QtbaocRJdPZQs8uMc6LzdrvOaQ4bZ0tH7pnhdp8",
+            "name": "mynft 123",
+            "onChain": true
+        },
+        "1": {
+            "link": "https://arweave.net/NjyAvwzCE_Q9WN-5yC-6xOi8M2SQmpgENPL09T65w8o",
+            "name": "mynft 123",
+            "onChain": true
+        },
+        "2": {
+            "link": "https://arweave.net/V-YUflf-fMb-AFLvNrb_wtiSAeBSZFv31Jg1shGWDII",
+            "name": "mynft 123",
+            "onChain": true
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp",
+    "authority": "EmhPP1HLx9UT7Mx6hv2VNXayqArPvvkJThE2pZ9DXd4m"
+}
